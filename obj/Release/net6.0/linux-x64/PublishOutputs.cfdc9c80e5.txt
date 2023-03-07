@@ -1,0 +1,7 @@
+D:\archivos\TRABAJOS\paginaCesar\PaginaCesar\PaginaCesar\obj\Release\net6.0\linux-x64\PubTmp\Out\PaginaCesar
+D:\archivos\TRABAJOS\paginaCesar\PaginaCesar\PaginaCesar\obj\Release\net6.0\linux-x64\PubTmp\Out\appsettings.Development.json
+D:\archivos\TRABAJOS\paginaCesar\PaginaCesar\PaginaCesar\obj\Release\net6.0\linux-x64\PubTmp\Out\appsettings.json
+D:\archivos\TRABAJOS\paginaCesar\PaginaCesar\PaginaCesar\obj\Release\net6.0\linux-x64\PubTmp\Out\PaginaCesar.dll
+D:\archivos\TRABAJOS\paginaCesar\PaginaCesar\PaginaCesar\obj\Release\net6.0\linux-x64\PubTmp\Out\PaginaCesar.deps.json
+D:\archivos\TRABAJOS\paginaCesar\PaginaCesar\PaginaCesar\obj\Release\net6.0\linux-x64\PubTmp\Out\PaginaCesar.runtimeconfig.json
+D:\archivos\TRABAJOS\paginaCesar\PaginaCesar\PaginaCesar\obj\Release\net6.0\linux-x64\PubTmp\Out\PaginaCesar.pdb

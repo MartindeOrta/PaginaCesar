@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xUnmsdYRPpTgWNOiebhMiiPCyKTa515RWkmmdZQ71kCqojTsB/cg0GM6Mo8n8RI3Os/+srreWx/RUTV3c3NP3A==",
+  "success": true,
+  "projectFilePath": "D:\\archivos\\TRABAJOS\\paginaCesar\\PaginaCesar\\PaginaCesar\\PaginaCesar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cdeorta\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.9\\microsoft.netcore.app.host.linux-x64.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
